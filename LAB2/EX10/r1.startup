@@ -1,0 +1,4 @@
+ifconfig eth0 192.168.10.1/24 up
+ifconfig eth0 hw ether 00:00:00:50:10:10
+ifconfig eth1 192.168.11.1/24 up
+ifconfig eth1 hw ether 00:00:00:50:11:10
