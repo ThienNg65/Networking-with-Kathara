@@ -1,0 +1,2 @@
+ifconfig eth0 100.2.0.2/30 up
+route add -net 100.1.0.0/16 gw 100.2.0.1
