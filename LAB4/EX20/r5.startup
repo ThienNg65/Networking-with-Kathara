@@ -1,0 +1,5 @@
+ifconfig eth0 182.182.182.162/29 up
+ifconfig eth1 190.190.190.66/28 up
+ifconfig eth2 190.190.190.50/28 up
+ifconfig eth3 182.182.182.170/29 up
+/etc/init.d/quagga start
